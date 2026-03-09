@@ -4,8 +4,8 @@ tagline: system developer
 description: System developer
 #show_downloads: true
 #google_analytics:
-#theme: jekyll-theme-minimal
-theme: hacker@v0.2.0
+theme: jekyll-theme-midnight.gemspec
+
 
 
 #https://github.com/KM-Data/km-data.github.io/blob/772f2811097b4c6bb762436b70a382d627640c6c/doc/assets/KM400.jpg
