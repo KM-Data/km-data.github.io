@@ -7,7 +7,8 @@ description: System developer
 #theme: jekyll-theme-hacker
 #theme: jekyll-theme-minimal
 #theme: jekyll-theme-midnight
-theme: jekyll-theme-slate
+#theme: jekyll-theme-slate
+theme: jekyll-theme-primer
 
 
 #https://github.com/KM-Data/km-data.github.io/blob/772f2811097b4c6bb762436b70a382d627640c6c/doc/assets/KM400.jpg
