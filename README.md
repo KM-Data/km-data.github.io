@@ -1,3 +1,7 @@
+### Large image
+
+![Logo](doc/assets/KM400.jpg)
+
 # Systemutveckling
 Systemutveckling av specialprogram för tillverkningsindustri, främst fönster och dörr produktion.
 Order/offert program, följesedel och fakturering, produktionsplanering, lagerstyrning och inköp mm.
@@ -20,11 +24,9 @@ Jag har möjlighet att hjälpa er på distans.
 
 ### Small image
 
-![Octocat](doc/assets/3.jpg)
+![Me](doc/assets/Me4.jpg)
 
-### Large image
 
-![Branching](doc/assets/KM400.jpg)
 
 # Education
 -Some University
