@@ -28,7 +28,7 @@ Jag har möjlighet att hjälpa er på distans.
 ### Nyheter & historik
 - 1998-03-28  - Påbörjade min anställning hos H-Fönstret i Lysekil AB
 - 2014-04-04  - Avslutade anställning hos H-Fönstret i Lysekil AB, startade KM-Data Haverud.
-  . Avslutade anställning hos H-Fönstret i Lysekil AB, startade KM-Data Haverud.
+  - Avslutade anställning hos H-Fönstret i Lysekil AB, startade KM-Data Haverud.
 - 2018-10-02
 - 2019-11-26
 - 2023-03-23
