@@ -12,10 +12,18 @@ Jag har möjlighet att hjälpa er på distans.
 
 ![Logo](doc/assets/KM400.jpg)
 
-## Projects
-### Project 1
-- Description
-- [Odenfönster](https://odenfonster.se/)
+
+### Kompetensområde
+- [Winplan](https://www.dbmanager.fi/sv/ratkaisut/winplan/) (ERP-system för fönster och dörrfabriker)
+- [RA Workshop](https://www.raworkshop.com/) (ERP-system för fönster och dörrfabriker)
+- [MS Access](https://products.office.com/sv-se/access?rtc=1) (Microsoft databas hantering)
+- [MS SQL](https://www.microsoft.com/sv-se/sql-server/sql-server-2019) (Databas server, SQL Server optimering)
+- [Visual Studio](https://visualstudio.microsoft.com/) (Programmering)
+- [Qt Creator](https://www.qt.io/development/tools/qt-creator-ide) (Programmering)
+- [Windows](https://www.microsoft.com/sv-se/windows?r=1) (Operativsystem för server och arbetsstation)
+- [Linux](https://distrowatch.com/) (Operativsystem för server och arbetsstation)
+- Databashantering för produktion
+
 
 ### Project 2
 - Description
