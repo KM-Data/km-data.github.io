@@ -29,8 +29,8 @@ Jag har möjlighet att hjälpa er på distans.
   
 ![Me](doc/assets/Me2.jpg)
 
-- [KM-Data LinkedIn]([https://odenfonster.se/](https://www.linkedin.com/company/3211080/admin/page-posts/published/)
-- [Magnus LinkedIn]([https://odenfonster.se/]([https://www.linkedin.com/company/3211080/admin/page-posts/published/](https://www.linkedin.com/in/magnusandersson4/)
+- [KM-Data LinkedIn](https://www.linkedin.com/company/3211080/admin/page-posts/published/)
+- [Magnus LinkedIn](https://www.linkedin.com/in/magnusandersson4/)
 
 # Education
 -Some University
