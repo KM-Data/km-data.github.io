@@ -29,7 +29,7 @@ Jag har möjlighet att hjälpa er på distans.
   
 ![Me](doc/assets/Me2.jpg)
 
-- [LinkedIn KM-Data](https://www.linkedin.com/company/3211080/admin/page-posts/published/)
+- [LinkedIn KM-Data](https://www.linkedin.com/company/lysapp/?viewAsMember=true)
 - [LinkedIn Magnus](https://www.linkedin.com/in/magnusandersson4/)
 
 # Education
