@@ -26,6 +26,7 @@ Jag har möjlighet att hjälpa er på distans.
 - Magnus Andersson
 - [magnus@km-data.se](magnus@km-data.se)
 - Mobil nr: 0709-621423
+  
 ![Me](doc/assets/Me2.jpg)
 
 
