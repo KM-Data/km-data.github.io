@@ -20,11 +20,11 @@ Jag har möjlighet att hjälpa er på distans.
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Octocat](doc/assets/3.jpg)
 
 ### Large image
 
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+![Branching](doc/assets/KM400.jpg)
 
 # Education
 -Some University
