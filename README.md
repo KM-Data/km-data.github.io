@@ -1,14 +1,9 @@
 # Beskrivning
 Systemutveckling av specialprogram för tillverkningsindustri, främst fönster och dörr produktion.
-
 Order/offert program, följesedel och fakturering, produktionsplanering, lagerstyrning och inköp mm.
-
 Speciallösningar för order- och produktionsplanering, externa kopplingar mellan olika program och CNC-maskiner.
-
 Låt era små tidskrävande administrativa uppgifter förenklas med små enkla program.
-
 Genom att förenkla era arbetsuppgifter skapar ni tid till viktigare uppgifter. Det ska vara lätt att göra rätt.
-
 ERP-specialist och BI-konsult (ansvarar för att integrera data från olika källor och skapa datamodeller för att organisera och strukturera data på ett meningsfullt sätt)
 
 Jag har möjlighet att hjälpa er på distans.
