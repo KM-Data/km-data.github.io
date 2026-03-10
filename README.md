@@ -8,7 +8,7 @@ Genom att förenkla era arbetsuppgifter skapar ni tid till viktigare uppgifter. 
 
 Jag har möjlighet att hjälpa er på distans.
 
-### Large image
+### 
 
 ![Logo](doc/assets/KM400.jpg)
 
