@@ -27,11 +27,10 @@ Jag har möjlighet att hjälpa er på distans.
 
 ### Nyheter & historik
 - 1998-03-28  - Påbörjade min anställning hos H-Fönstret i Lysekil AB
-- 2014-04-04  - Avslutade anställning hos H-Fönstret i Lysekil AB, startade KM-Data Haverud.
-  - Avslutade anställning hos H-Fönstret i Lysekil AB, startade KM-Data Haverud.
-- 2018-10-02
-- 2019-11-26
-- 2023-03-23
+- 2014-04-04  - Avslutade anställning hos [H-Fönstret i Lysekil AB](https://www.hfonstret.se/), startade KM-Data Haverud.
+- 2018-10-02  - Informations träff [Maximalfönster](https://maximalfonster.se/) på plats i Åshammar.
+- 2019-11-26  - Första informationsmötet om winplan hos [Odenfönster](https://odenfonster.se/) på plats i Falköping.
+- 2023-03-23  - KM-Data är nu återförsäljare av fönstersystemet [RA Workshop](https://www.raworkshop.com/). Vilken variant passar er bäst?
 - 2024-01-09
 - 2024-04-04
 
