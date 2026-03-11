@@ -12,7 +12,7 @@ Jag har möjlighet att hjälpa er på distans.
 
 [Jitsi Meet](https://meet.jit.si/) Digital möten med hög kvalitet
 
-Proton Meet Digital möten med hög säkerhet, kommer snart.
+[Proton Meet](https://proton.me/meet) Digital möten med hög säkerhet, kommer snart.
 
 
 
@@ -46,11 +46,10 @@ Proton Meet Digital möten med hög säkerhet, kommer snart.
 
 
 ### Låt mig hjälpa er.
+![Me](doc/assets/Me2.jpg)
 - Magnus Andersson
 - [magnus@km-data.se](magnus@km-data.se)
 - Mobil nr: 0709-621423
-  
-![Me](doc/assets/Me2.jpg)
 
 - [LinkedIn KM-Data](https://www.linkedin.com/company/lysapp/?viewAsMember=true)
 - [LinkedIn Magnus](https://www.linkedin.com/in/magnusandersson4/)
