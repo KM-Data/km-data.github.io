@@ -54,9 +54,5 @@ Jag har möjlighet att hjälpa er på distans.
 - [LinkedIn KM-Data](https://www.linkedin.com/company/lysapp/?viewAsMember=true)
 - [LinkedIn Magnus](https://www.linkedin.com/in/magnusandersson4/)
 
-# Education
--Some University
+# [ERP-System](https://km-data.github.io/erp.github.io/)
 
-# Work History
-- Workplace 1
-- Workplace 2
