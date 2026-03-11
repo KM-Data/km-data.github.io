@@ -8,6 +8,12 @@ Genom att förenkla era arbetsuppgifter skapar ni tid till viktigare uppgifter. 
 
 Jag har möjlighet att hjälpa er på distans.
 
+[TeamViewer](https://get.teamviewer.com/kmdata) Fjärrstyrd support
+
+[Jitsi Meet](https://meet.jit.si/) Digital möten med hög kvalitet
+
+Proton Meet Digital möten med hög säkerhet, kommer snart.
+
 
 
 ![Logo](doc/assets/KM400.jpg)
